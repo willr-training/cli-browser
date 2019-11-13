@@ -2,6 +2,8 @@
 
 ## MacOS terminal
 
+### Chrome
+
 https://superuser.com/a/1383357/1112071
 
 Open a URL in the default browser (could be Chrome):
@@ -29,5 +31,7 @@ From man open, it would seem that you should be able to do it like this (but ala
 However, you can do it by passing the Chrome command line switches directly to the Chrome binary:
 
 `/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --incognito http://example.com`
+
+### Brave
 
 ## Windows 

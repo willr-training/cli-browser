@@ -35,3 +35,7 @@ However, you can do it by passing the Chrome command line switches directly to t
 ### Brave
 
 ## Windows 
+
+### Brave
+
+`start brave example.com'

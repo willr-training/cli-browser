@@ -38,5 +38,5 @@ However, you can do it by passing the Chrome command line switches directly to t
 
 ### Brave
 
-Open url in Brave
+Open url in Brave<br>
 `start brave example.com`

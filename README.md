@@ -28,7 +28,7 @@ From man open, it would seem that you should be able to do it like this (but ala
 
 `open -a "Google Chrome" http://example.com/ --args --incognito`
 
-However, you can do it by passing the Chrome command line switches directly to the Chrome binary:
+However, you can do it by passing the Chrome [command line switches](https://peter.sh/experiments/chromium-command-line-switches/) directly to the Chrome binary:
 
 `/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --incognito http://example.com`
 
@@ -42,5 +42,7 @@ Open url in Brave<br>
 `start brave example.com`
 
 Open url in Brave incognito<br>
-start brave google.com --incognito
+`start brave google.com --incognito`
+
+
 

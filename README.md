@@ -40,3 +40,7 @@ However, you can do it by passing the Chrome command line switches directly to t
 
 Open url in Brave<br>
 `start brave example.com`
+
+Open url in Brave incognito<br>
+start brave google.com --incognito
+

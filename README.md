@@ -44,5 +44,20 @@ Open url in Brave<br>
 Open url in Brave incognito<br>
 `start brave google.com --incognito`
 
+### Chrome
+
+Open url in Chrome<br>
+`$ chrome google.com`
+
+Open url in Chrome incognito<br>
+`$ chrome google.com --incognito`
+
+## Other tools to look into
+
+Google search from terminal<br>
+https://www.tecmint.com/google-commandline-search-terminal/
+https://github.com/jarun/googler
+
+
 
 
